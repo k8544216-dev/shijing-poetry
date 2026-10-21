@@ -1,0 +1,36 @@
+glsl-force 1.0.0 — distribution notice
+
+Upstream repository: https://github.com/ykob/glsl-force
+Exact commit: 5fb78e89e58f2907cd8ebb09f9ff79573147e15c
+Upstream author (package.json): yoichi kobayashi
+Declared license (package.json): MIT
+Declaration: https://raw.githubusercontent.com/ykob/glsl-force/5fb78e89e58f2907cd8ebb09f9ff79573147e15c/package.json
+The exact declaration is preserved as glsl-force-MIT-declaration.json.
+
+This explanatory notice was assembled by this distribution on 2026-10-12;
+it is not represented as a LICENSE file downloaded from glsl-force. The
+upstream archive contains no separate copyright line or year. None is
+invented here. The license declaration above is the upstream permission
+evidence. The standard MIT permission terms named by that declaration are
+reproduced below from https://spdx.org/licenses/MIT.html, without inserting
+values for that reference template's copyright-holder/year placeholders.
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

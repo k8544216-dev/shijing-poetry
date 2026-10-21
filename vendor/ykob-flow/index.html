@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Flow Field · Yoichi Kobayashi</title>
+  <style>
+    html,body,.l-page{width:100%;height:100%;margin:0;overflow:hidden;background:#0e0e0e}
+    #canvas-webgl{position:absolute;inset:0;display:block;width:100%;height:100%}
+    .p-preloader{display:none}
+  </style>
+</head>
+<body>
+  <div class="l-page" data-id="flow_field">
+    <div class="p-preloader" aria-hidden="true"></div>
+    <canvas id="canvas-webgl"></canvas>
+  </div>
+  <script src="./bootstrap.js"></script>
+  <script src="./upstream.js"></script>
+</body>
+</html>

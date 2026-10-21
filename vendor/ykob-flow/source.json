@@ -1,0 +1,238 @@
+{
+  "author": "Yoichi Kobayashi",
+  "repository": "https://github.com/ykob/sketch-threejs",
+  "branchAtDownload": "main",
+  "downloadedAt": "2026-10-11",
+  "versionIdentity": "SHA-256 of exact downloaded bytes (not a rebuilt bundle)",
+  "adaptation": "Compiled bundle is byte-identical. bootstrap.js maps only its exact absolute Flow Field noise image request to local noise.jpg. No camera, shader, simulation or visual default changes.",
+  "licenseAudit": "Release-material review complete for the exact bundle and Flow Field noise texture. Publisher license declarations, full terms and relevant attributions are retained; no identified condition blocks distribution with these notices. Historical tracing limits are disclosed in licenses/LICENSE_AUDIT.md. This is not a legal certification or a statement that deployment has occurred.",
+  "licenseAuditDate": "2026-10-12",
+  "publicationRequirements": [
+    "Deploy this source.json and the complete licenses directory with the unchanged upstream.js and noise.jpg; keep them publicly accessible.",
+    "Do not add the author's explicitly excluded models or textures on the basis of the collection MIT license.",
+    "Review any changed bundle, additional assets or changed upstream license before distribution."
+  ],
+  "files": [
+    {
+      "path": "upstream.js",
+      "url": "https://raw.githubusercontent.com/ykob/sketch-threejs/main/docs/js/main.min.js",
+      "sha256": "a3b22fc21faed41cfd34be26be8cf75deae439deb3ced8b224261f4aa5d1fd59",
+      "role": "Original compiled author collection; only flow_field entry executes",
+      "license": "licenses/ykob-LICENSE.txt"
+    },
+    {
+      "path": "noise.jpg",
+      "url": "https://raw.githubusercontent.com/ykob/sketch-threejs/main/docs/img/sketch/flow_field/noise.jpg",
+      "sha256": "b92cccd6046cfd9fbd7b490dc64b0a3b07eb0547e6603a54383fb9119be9f1ae",
+      "role": "Original Flow Field noise texture (not one of author README exceptions)",
+      "license": "licenses/ykob-LICENSE.txt"
+    },
+    {
+      "path": "licenses/ykob-LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/ykob/sketch-threejs/main/LICENSE",
+      "sha256": "46e90e83a2ef8d1bd68ec072a79f5a193c5704d440d1e47399540dc9f3013ab9",
+      "role": "Author MIT license and copyright",
+      "license": "licenses/ykob-LICENSE.txt"
+    },
+    {
+      "path": "licenses/bundle-LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/ykob/sketch-threejs/main/docs/js/main.js.LICENSE.min.txt",
+      "sha256": "e00ecbd3fac1029fa06537cd51535e6e043ed1662d899070536c71961d2b2ff4",
+      "role": "Original bundle notice companion; not the complete dependency license collection",
+      "license": "licenses/ykob-LICENSE.txt"
+    },
+    {
+      "path": "licenses/Apache-2.0.txt",
+      "url": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+      "archiveMember": null,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "role": "Preserved upstream dependency license or attribution",
+      "license": "licenses/Apache-2.0.txt"
+    },
+    {
+      "path": "licenses/babel-polyfill-MIT.txt",
+      "url": "https://registry.npmjs.org/@babel/polyfill/-/polyfill-7.12.1.tgz",
+      "archiveMember": "package/LICENSE",
+      "sha256": "117da2af0d4ce0fe1c8e19b5cff9dcd806adf973d328d27b11d4448c4ff24f76",
+      "role": "Preserved upstream dependency license or attribution",
+      "license": "licenses/babel-polyfill-MIT.txt"
+    },
+    {
+      "path": "licenses/core-js-MIT.txt",
+      "url": "https://registry.npmjs.org/core-js/-/core-js-2.6.12.tgz",
+      "archiveMember": "package/LICENSE",
+      "sha256": "4003e24135fde907d7069bb73aad64092cfe662b26914296f2f7f1e16e1f15a6",
+      "role": "Preserved upstream dependency license or attribution",
+      "license": "licenses/core-js-MIT.txt"
+    },
+    {
+      "path": "licenses/earcut-2.2.2-ISC.txt",
+      "url": "https://raw.githubusercontent.com/mapbox/earcut/v2.2.2/LICENSE",
+      "archiveMember": null,
+      "sha256": "cd661c432ea8243974e6fde6fc433ebee3e96525ca8b66321b9d9971674ede60",
+      "role": "Preserved upstream dependency license or attribution",
+      "license": "licenses/earcut-2.2.2-ISC.txt"
+    },
+    {
+      "path": "licenses/easing-js-MIT.txt",
+      "url": "https://danro.mit-license.org/license.txt",
+      "archiveMember": null,
+      "sha256": "1185772afdd003c35bc9fb430f5c68e3aa796af4e13f514317451d52c95cf0b6",
+      "role": "Preserved upstream dependency license or attribution",
+      "license": "licenses/easing-js-MIT.txt"
+    },
+    {
+      "path": "licenses/easing-js-Penner-BSD.txt",
+      "url": "https://raw.githubusercontent.com/danro/easing-js/4f5e7edbde7f7200a1baf08e357377896c0d207e/LICENSE",
+      "archiveMember": null,
+      "sha256": "30f71536e0df0f2019003f7a46dca08033b117ce876ca862c9fd9b9173dd4ed2",
+      "role": "Preserved upstream dependency license or attribution",
+      "license": "licenses/easing-js-Penner-BSD.txt"
+    },
+    {
+      "path": "licenses/filament-Apache-2.0.txt",
+      "url": "https://raw.githubusercontent.com/google/filament/v1.9.25/LICENSE",
+      "archiveMember": null,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "role": "Preserved upstream dependency license or attribution",
+      "license": "licenses/filament-Apache-2.0.txt"
+    },
+    {
+      "path": "licenses/gl-matrix-MIT.txt",
+      "url": "https://registry.npmjs.org/gl-matrix/-/gl-matrix-3.3.0.tgz",
+      "archiveMember": "package/LICENSE.md",
+      "sha256": "93a63c96e7b99cdfd3c3bcc3beb52df69ae619a33f28ac4203da5605752eb3ba",
+      "role": "Preserved upstream dependency license or attribution",
+      "license": "licenses/gl-matrix-MIT.txt"
+    },
+    {
+      "path": "licenses/glsl-easings-MIT.txt",
+      "url": "https://registry.npmjs.org/glsl-easings/-/glsl-easings-1.0.0.tgz",
+      "archiveMember": "package/LICENSE.md",
+      "sha256": "435a6722c786b0a56fbe7387028f1d9d3f3a2d0fb615bb8fee118727c3f59b7b",
+      "role": "Preserved upstream dependency license or attribution",
+      "license": "licenses/glsl-easings-MIT.txt"
+    },
+    {
+      "path": "licenses/glsl-force-MIT-declaration.json",
+      "url": "https://raw.githubusercontent.com/ykob/glsl-force/5fb78e89e58f2907cd8ebb09f9ff79573147e15c/package.json",
+      "archiveMember": null,
+      "sha256": "e46d82b7dbd3407fd6077997b8d8bc25e09f990fe850280fc4a5c27a880bbe31",
+      "role": "Exact upstream MIT license declaration and author; paired with explicitly labeled supplemental standard MIT terms",
+      "license": "licenses/glsl-force-MIT-NOTICE.txt"
+    },
+    {
+      "path": "licenses/glsl-inverse-MIT.txt",
+      "url": "https://registry.npmjs.org/glsl-inverse/-/glsl-inverse-1.0.0.tgz",
+      "archiveMember": "package/LICENSE",
+      "sha256": "953a989b037b68597ebd16f3aec8b64bd1a357da149a58cc001f8784c3bf209a",
+      "role": "Preserved upstream dependency license or attribution",
+      "license": "licenses/glsl-inverse-MIT.txt"
+    },
+    {
+      "path": "licenses/glsl-noise-MIT.txt",
+      "url": "https://registry.npmjs.org/glsl-noise/-/glsl-noise-0.0.0.tgz",
+      "archiveMember": "package/LICENSE",
+      "sha256": "bce6c887104eda776ad5e3a2c0b249d1ef5adca91573b350e7147a59d65757f1",
+      "role": "Preserved upstream dependency license or attribution",
+      "license": "licenses/glsl-noise-MIT.txt"
+    },
+    {
+      "path": "licenses/ltc-code-BSD-attribution.txt",
+      "url": "https://raw.githubusercontent.com/selfshadow/ltc_code/master/LICENSE",
+      "archiveMember": null,
+      "sha256": "692a54e97fcadd0f04b14027386e53809c1dcf96de3e15b15af15731b15c1e94",
+      "role": "Preserved upstream dependency license or attribution",
+      "license": "licenses/ltc-code-BSD-attribution.txt"
+    },
+    {
+      "path": "licenses/regenerator-runtime-MIT.txt",
+      "url": "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.13.7.tgz",
+      "archiveMember": "package/LICENSE",
+      "sha256": "51887a3d47051ac2fce1210562e5b9fe0830a8a8fabeb272c2d586eeb18a05fd",
+      "role": "Preserved upstream dependency license or attribution",
+      "license": "licenses/regenerator-runtime-MIT.txt"
+    },
+    {
+      "path": "licenses/simplex-noise-Alea-MIT.txt",
+      "url": "https://registry.npmjs.org/simplex-noise/-/simplex-noise-2.4.0.tgz",
+      "archiveMember": "package/LICENSE",
+      "sha256": "f1f3a7fd9895e26924bfbf71d28e353e68d387df6a430621d65d05b6dff26bed",
+      "role": "Preserved upstream dependency license or attribution",
+      "license": "licenses/simplex-noise-Alea-MIT.txt"
+    },
+    {
+      "path": "licenses/three-r128-MIT.txt",
+      "url": "https://registry.npmjs.org/three/-/three-0.128.0.tgz",
+      "archiveMember": "package/LICENSE",
+      "sha256": "7dddf7c5b8fd10ee654db8857d75d104b5557889aa5a91fc4ca545ea7c07062f",
+      "role": "Preserved upstream dependency license or attribution",
+      "license": "licenses/three-r128-MIT.txt"
+    },
+    {
+      "path": "licenses/ua-parser-js-0.7.26-MIT.txt",
+      "url": "https://registry.npmjs.org/ua-parser-js/-/ua-parser-js-0.7.26.tgz",
+      "archiveMember": "package/license.md",
+      "sha256": "f1cd6d47c281292c49dca8466ac2d6a604b23deb2d0c93cb05a90b66ad529db3",
+      "role": "Preserved upstream dependency license or attribution",
+      "license": "licenses/ua-parser-js-0.7.26-MIT.txt"
+    },
+    {
+      "path": "licenses/vue-2.6.12-MIT.txt",
+      "url": "https://registry.npmjs.org/vue/-/vue-2.6.12.tgz",
+      "archiveMember": "package/LICENSE",
+      "sha256": "17fb24bc303763f3fe1911ee24e5225c7ad59f0e3a5d8123e9b730c100a306a6",
+      "role": "Preserved upstream dependency license or attribution",
+      "license": "licenses/vue-2.6.12-MIT.txt"
+    },
+    {
+      "path": "licenses/ykob-glsl-util-MIT.txt",
+      "url": "https://registry.npmjs.org/@ykob/glsl-util/-/glsl-util-1.1.0.tgz",
+      "archiveMember": "package/LICENSE",
+      "sha256": "d70423f6b3edd9f7a44d6a226ada91e5df89f15ddba827181539cf6f34a6f1b7",
+      "role": "Preserved upstream dependency license or attribution",
+      "license": "licenses/ykob-glsl-util-MIT.txt"
+    },
+    {
+      "path": "licenses/ykob-js-util-MIT.txt",
+      "url": "https://registry.npmjs.org/@ykob/js-util/-/js-util-2.0.0.tgz",
+      "archiveMember": "package/LICENSE",
+      "sha256": "d70423f6b3edd9f7a44d6a226ada91e5df89f15ddba827181539cf6f34a6f1b7",
+      "role": "Preserved upstream dependency license or attribution",
+      "license": "licenses/ykob-js-util-MIT.txt"
+    }
+  ],
+  "supplementalMaterials": [
+    {
+      "path": "licenses/glsl-force-MIT-NOTICE.txt",
+      "url": "https://spdx.org/licenses/MIT.html",
+      "evidenceUrls": [
+        "https://raw.githubusercontent.com/ykob/glsl-force/5fb78e89e58f2907cd8ebb09f9ff79573147e15c/package.json"
+      ],
+      "sha256": "89e6d3774db49101677d88898befe98dcf1af8c59531fb8e537fe07d4f626ec9",
+      "role": "Distribution-assembled notice: declared upstream author and standard MIT terms; not downloaded as an original glsl-force LICENSE; no copyright year invented",
+      "license": "licenses/glsl-force-MIT-NOTICE.txt"
+    },
+    {
+      "path": "licenses/three-r128-source-attributions.md",
+      "url": "https://github.com/mrdoob/three.js/tree/r128/src",
+      "evidenceUrls": [
+        "https://github.com/juj/MathGeoLib/blob/2940b99b99cfe575dd45103ef20f4019dee15b54/src/Geometry/Sphere.cpp",
+        "https://github.com/google/filament/blob/v1.9.25/shaders/src/brdf.fs",
+        "https://github.com/selfshadow/ltc_code",
+        "https://raw.githubusercontent.com/mapbox/earcut/v2.2.2/LICENSE",
+        "https://realtimecollisiondetection.net/books/rtcd/"
+      ],
+      "sha256": "b376551bffcda05f208114386ec9823664b4b2761b84201c51b948ac7f096a60",
+      "role": "Distribution-assembled attributions, source mappings, upstream adaptation descriptions and historical tracing limits; not an original upstream NOTICE file"
+    },
+    {
+      "path": "licenses/LICENSE_AUDIT.md",
+      "url": "https://github.com/ykob/sketch-threejs/tree/61595774d51bbb6a83065375cbd50fb730b81e0e",
+      "sha256": "98c03e632ac7d3b45f245552749c31767c0bf59b8fd1cd08bdb6850850c7bf86",
+      "role": "Distribution-authored bounded materials audit and release conclusion; not an upstream license"
+    }
+  ],
+  "authorCommit": "61595774d51bbb6a83065375cbd50fb730b81e0e",
+  "publicationAuditComplete": true
+}
